@@ -5,7 +5,7 @@
 
 An AI-assisted research tool, piloted on NASA's **TESS** light curves. It (1) finds unusual stretches in a star's brightness record with an unsupervised deep model and (2) places each finding in the published literature, with prior failures made visible. It is an **assistive tool, not an automatic discoverer**: every output must be verified by a human researcher.
 
-> **Live dashboard:**[@VIEW] _https://theater-pilot-guitars-allocation.trycloudflare.com/_
+> **Live dashboard:**[@VIEW](https://theater-pilot-guitars-allocation.trycloudflare.com/)
 
 ## What it does
 
