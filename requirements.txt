@@ -1,0 +1,14 @@
+# CPU build of PyTorch (works on Streamlit Community Cloud and laptops without a GPU)
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+streamlit
+lightkurve
+astropy
+numpy
+scipy
+pandas
+matplotlib
+sentence-transformers
+faiss-cpu
+# Optional (zero-shot null-result classifier, large download ~1.6 GB). Uncomment if needed:
+# transformers

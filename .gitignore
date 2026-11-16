@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.streamlit/secrets.toml
+train_windows.npz
+cloudflared
+logs.txt
+# checkpoint_v2.pt is small (~0.5 MB). Keep it committed so the deployed app uses the trained model.
