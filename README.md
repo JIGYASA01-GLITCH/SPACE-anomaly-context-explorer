@@ -88,8 +88,8 @@ docs/images/            Figures used in this README
 - Only arXiv abstracts are used; LLM output can be wrong and must be verified.
 
 ## Authors
-- **Jigyasa Chaturvedi** (BTAM24O1033), [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
-- **Manshi Rahangdale** (BTAM24O1038), [@PARTNER-USERNAME](https://github.com/PARTNER-USERNAME)
+- **Jigyasa Chaturvedi**, [@YOUR-USERNAME](https://github.com/JIGYASA01-GLITCH)
+- **Manshi Rahangdale** , [@PARTNER-USERNAME](https://github.com/manshirahangdale)
 
 Supervisor: Ms. Archana Acharya, Assistant Professor, Centre for Artificial Intelligence, Madhav Institute of Technology & Science (MITS), Gwalior. Cornerstone Project, B.Tech AI & ML, Jul-Dec 2026.
 
